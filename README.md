@@ -1,4 +1,5 @@
-### Hi there 👋
+## WELLCOME!
+
 
 <!--
 **Reign2121/Reign2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 My area is Data analytics & science !
+
+🔥 I am summarizing what I have learned so far.
+
+🔥 Recently, I'm into Deep Learning.
+
+🙋 I have covered various domains of marketing.
+
+🙋 I'm interested in Survival(churn) Model, Choice Model, Sentiment Analysis!
+
+Thank you!
