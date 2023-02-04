@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 🙋 I have covered various domains of marketing.
 
-🙋 I'm interested in Survival(churn) Model, Choice Model, Sentiment Analysis!
+🙋 I'm interested in Survival(churn) & Choice Model, Consumer behavior, Sentiment Analysis!
 
 Thank you!
