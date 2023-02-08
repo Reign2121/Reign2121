@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🔥 Recently, I'm into Deep Learning.
 
-🙋 I have covered various domains of marketing.
+🙋 I have covered various domains of Business.
 
 🙋 I'm interested in Survival(churn) & Choice Model, Consumer behavior, Demand Forecasting!
 
