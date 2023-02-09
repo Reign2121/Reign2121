@@ -21,7 +21,7 @@ __________
 
 🔥 Recently, I'm into Deep Learning.
 __________
-🙋 My academic root is management, so i have covered various domains of ##"Business".
+🙋 My academic root is management, so i have covered various domains of "Business".
 
 🙋 I'm interested in Survival(churn) & Choice Model, Consumer behavior, Demand Forecasting!
 __________
