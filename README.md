@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 🌱 My area is Data analytics & science !
 
-🔥 I am summarizing what I have learned so far.
-
-🔥 Recently, I'm into Deep Learning.
-
 🙋 My academic root is management, so i have covered various domains of "Business".
 
 🙋 I'm interested in Survival(churn) & Choice Model, Consumer behavior, Demand Forecasting!
+
+🔥 I am summarizing what I have learned so far.
+
+🔥 Recently, I'm into Deep Learning.
 
 Thank you!
