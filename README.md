@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 🌱 My area is Data analytics & science !
 
-🙋 My academic root is management, so i have covered various domains of "Business".
+🙋 My academic root is management, so i have covered various domain of "Business".
 
 🙋 I'm interested in Survival(churn) & Choice Model, Consumer behavior, Demand Forecasting!
 
