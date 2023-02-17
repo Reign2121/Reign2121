@@ -37,9 +37,8 @@ __Skills With__
 
 <br/>
  
-__Contact me__
+__Fllow the link__
  
- <br/> 
 <a href="https://seollane22.tistory.com/">
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://seollane22.tistory.com/"/>
 </a>                                                                                                                                                   
