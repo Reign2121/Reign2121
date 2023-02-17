@@ -17,6 +17,8 @@ Here are some ideas to get you started:
  =============
 <br/>
 
+__ME__
+
 🌱 My area is Data analytics & science !
 
 🙋 My academic root is management, so i have covered various domain of "Business".
