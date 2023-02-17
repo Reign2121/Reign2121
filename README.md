@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 -->
  HELLO!
  =============
-<br/>
-
-__ME__
 
 🌱 My area is Data analytics & science !
 
@@ -29,19 +26,20 @@ __ME__
 
 🔥 Recently, I'm into Deep Learning.
 
-Thank you!
 
 ________________________________________________________________________________________________________________
 <br/>
-
+<div align="center">
+ 
 __Skills With__
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br/>
-<div align="center">
-
  
-  
-</div>  
+__Contact__
+ 
+ <br/> 
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://seollane22.tistory.com/"/><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seollane22@gmail.com"/>
+<div/>
