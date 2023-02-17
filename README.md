@@ -38,8 +38,13 @@ __Skills With__
 
 <br/>
  
-__Contact__
+__Contact me__
  
  <br/> 
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://seollane22.tistory.com/"/><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seollane22@gmail.com"/>
+<a href="https://seollane22.tistory.com/">
+ <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://seollane22.tistory.com/"/>
+</a>                                                                                                                                                   
+<a href="mailto:seollane22@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seollane22@gmail.com"/>
+</a>
 <div/>
