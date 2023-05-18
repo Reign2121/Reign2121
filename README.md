@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 😄 My academic root is management, so i have covered various domain of "Business".
 
-😄 I'm interested in Survival(churn) & Choice Model, Consumer Experience, Demand Forecasting!
+😄 I'm interested in Sequential Tasks
 
 🔥 I am summarizing what I have learned so far.
 
