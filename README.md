@@ -40,9 +40,6 @@ __Skills With__
  
 __Fllow the link__
  
-<a href="https://www.notion.so/Geun-Hyung-Seol-46c22236daba45239fdf5079903820ed?pvs=4">
- <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Geun-Hyung-Seol-46c22236daba45239fdf5079903820ed?pvs=4"/>
-</a>  
 <a href="https://seollane22.tistory.com/">
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://seollane22.tistory.com/"/>
 </a>                                                                                                                                                   
