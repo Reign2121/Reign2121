@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🔥 I am summarizing what I have learned so far.
 
-🔥 Recently, I'm into TS Forecasting + Anomaly Detection.
+🔥 Recently, I'm into TS Forecasting + TS Anomaly Detection.
 
 
 ________________________________________________________________________________________________________________
