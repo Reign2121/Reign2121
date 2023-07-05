@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 😄 My academic root is management, so i have covered various domain of "Business".
 
-😄 I'm interested in Sequential Tasks in Business.
+😄 I'm interested in Forecasting/Backcasting
 
 🔥 I am summarizing what I have learned so far.
 
